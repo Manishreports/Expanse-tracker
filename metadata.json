@@ -1,0 +1,6 @@
+{
+  "name": "Daily Expense Closing & Budget Tracker",
+  "description": "Smart Indian household budget tracker with strict daily closing gatekeeper, category reconciliation, and dynamic grocery planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
